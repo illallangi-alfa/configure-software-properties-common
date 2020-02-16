@@ -1,0 +1,8 @@
+---
+dependencies:
+  - src: "https://git@github.com/illallangi-alfa/install-software-properties-common.git"
+    scm: git
+    version: master
+  - src: "https://git@github.com/illallangi-alfa/remove-software-properties-common.git"
+    scm: git
+    version: master
